@@ -1,2 +1,2 @@
 # stock
-Chinese Stock-A  analyzer
+Chinese Stock-A analyzer
